@@ -1,0 +1,118 @@
+.container{
+    margin-bottom: 100px;
+}.header-area{
+    background-color: #f0fff0;
+}.navbar-brand .logo{
+    width: 30%;
+}
+.nav-item{
+    font-size: 20px;
+    padding-left: 25px !important;
+}
+.btn{
+    width: 100px;
+    color: white !important;
+    background-color: #21b573;
+    border-radius: 33px;
+}
+.banner img{
+    width: 100%;
+}
+.banner h3{
+    color: rgba(202, 36, 36, 0.993);
+    font-size: 14px;
+}
+.banner h1{
+    font-weight: bold;
+    font-size: 70px;
+    margin-bottom: 15px;
+}
+.banner p{
+    color: rgba(92, 88, 83, 0.527);
+    margin-bottom: 15px;
+}
+.banner h1 span{
+    color: #21b573;
+}
+.banner-btn{
+    width: 138px;
+}
+.card-img{
+    width: 170px;
+    height: 170px;
+    margin: auto;
+    margin-top: 40px;
+    padding: 30px;
+}
+.card{
+    border: none;
+}
+.card-2{
+    box-shadow: 5px 5px  30px lightgray;
+}
+.card-body{
+    text-align: center;
+}
+.card-footer{
+    border: none;
+    margin-top: 15px;
+    background-color: rgba(0,0,0,.0);
+}
+.course-card .card-footer img{
+    width: 30px;
+    height: 25px;
+
+}
+.course-card{
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-img-top{
+    padding: 20px;
+}
+.Courses{
+    text-align: center;
+    margin-bottom: 50px;
+    font-weight: bold;
+    font-size: 40px;
+}
+.Testimonial h3{
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+.corosel{
+    width: 50%;
+    height: 200px;
+    margin: auto;
+
+}
+.corosel img{
+    width: 100px;
+    height: 100px;
+    margin-right: 50px;
+}
+footer{
+    background-color: black;
+    color: rgb(122, 120, 120);
+    padding-top: 30px;
+    margin-bottom: -100px;
+}
+footer h3{
+    text-align: center;
+
+}
+.footer-menu{
+    list-style: none;
+    padding-bottom: 50px;
+}
+.footer-menu a{
+    text-decoration: none;
+    color: rgb(122, 120, 120);
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 18px;
+}
+footer p{
+    padding-bottom: 20px;
+}
